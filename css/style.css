@@ -1,0 +1,30 @@
+body
+	{
+		background-color: pink;
+	}
+
+a:link, a:visited
+{
+	background-color: cyan;
+		color: red;
+		text-decoration: none;
+		padding: 16px;
+		text-align: center;
+		display: inline-block;
+		font-family: verdana;
+	}
+
+
+a: hover
+{
+	color:maroon;
+		background-color: beige;
+		text-decoration: underline;
+	}
+
+a: active
+{
+	color: black;
+		background-color: gold;
+		text-decoration: underline;
+	}
